@@ -1,7 +1,7 @@
 ---
 uid: michaela.vodova
 name:     Michaela Vodová                      # běžně používáné jméno
-fullname: Michaela Vodová                  # jméno s tituly etc.
+fullname: Mgr. Michaela Vodová                  # jméno s tituly etc.
 category:                                 # kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
 img: people/michaela-vodova.jpg           # 165 x 220
