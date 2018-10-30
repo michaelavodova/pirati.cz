@@ -32,3 +32,6 @@ Piráti na Vysočině aktivně působí na území celého kraje. V Jihlavě ná
 * Podívejte se na [mapu Pirátů z Vysočiny](https://drive.google.com/open?id=1ZVfpma9qRjEPVzhjQKxsAmhCI_c1dyYF&usp=sharing) a kontaktujte nejbližšího Piráta či Pirátku.
  
 Více na [našem starém webu](https://wiki.pirati.cz/regiony/vysocina/start).
+
+### Kalendář
+<iframe src="https://calendar.google.com/calendar/embed?src=r26esfjiivuu9temt46dholqhs%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
